@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<editmodel:ClassDiagramEditModel xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:editmodel="editmodel.xmi" size="1008,391" id="susanneUweJ20001159" metadata="nsuml-1.4" initialized="true" showWireOptions="1" scrolledY="57">
+  <children xsi:type="editmodel:ClassEditModel" location="190,20" size="117,157" id="susanneUweJ20001160" runTimeClassModel="susanneUweJ20001355;MatthiasuweJ200017274;susanneUweJ20001437;susanneUweJ20001231;susanneUweJ20001236;susanneUweJ20001239;MatthiasuweJ200017272;susanneUweJ20001229;susanneUweJ20001233;susanneUweJ20001242;susanneUweJ20001162;MatthiasuweJ200017276">
+    <children xsi:type="editmodel:CompartmentEditModel" size="71,54">
+      <children xsi:type="editmodel:AttributeEditModel" id="susanneUweJ20001233"/>
+      <children xsi:type="editmodel:AttributeEditModel" id="susanneUweJ20001231"/>
+      <children xsi:type="editmodel:AttributeEditModel" id="susanneUweJ20001229"/>
+    </children>
+    <children xsi:type="editmodel:CompartmentEditModel" size="94,54">
+      <children xsi:type="editmodel:MethodEditModel" id="susanneUweJ20001162"/>
+      <children xsi:type="editmodel:MethodEditModel" id="susanneUweJ20001355"/>
+      <children xsi:type="editmodel:MethodEditModel" id="susanneUweJ20001437"/>
+    </children>
+    <children xsi:type="editmodel:CompartmentEditModel"/>
+    <classifierPreferences xsi:type="editmodel:UMLClassDiagramClassifierPreference" showStereotype="true" attributeSorter="Natural" methodSorter="Natural" innerClassSorter="Natural" showPublicAttributes="true" showPackageAttributes="true" showPublicMethods="true" showPackageMethods="true" showPublicInnerClasses="true" showPackageInnerClasses="true"/>
+  </children>
+  <children xsi:type="editmodel:ClassEditModel" location="380,64" size="128,265" id="susanneUweJ200010588" runTimeClassModel="susanneUweJ200010609;MatthiasuweJ200012942;MatthiasuweJ200013391;MatthiasuweJ200011639;MatthiasuweJ200012971;MatthiasuweJ200012310;MatthiasuweJ200011650;MatthiasuweJ200011624;MatthiasuweJ200011604;MatthiasuweJ200011656;MatthiasuweJ200011612;MatthiasuweJ200011634;MatthiasuweJ200011608;MatthiasuweJ200012883;MatthiasuweJ200012940;susanneUweJ200010607;MatthiasuweJ200011654;MatthiasuweJ200011637;susanneUweJ200010603;MatthiasuweJ200011626;MatthiasuweJ200011630;MatthiasuweJ200011636;MatthiasuweJ200011632;MatthiasuweJ200011641;MatthiasuweJ200011647;MatthiasuweJ200011658;MatthiasuweJ200012946;MatthiasuweJ200011620;MatthiasuweJ200011642;MatthiasuweJ200012925;MatthiasuweJ200011628;susanneUweJ200010605;MatthiasuweJ200012937;MatthiasuweJ200011616;MatthiasuweJ200011820;MatthiasuweJ200013361;MatthiasuweJ200011638;MatthiasuweJ200011644;MatthiasuweJ200011640;MatthiasuweJ200011643;MatthiasuweJ200011796">
+    <children xsi:type="editmodel:CompartmentEditModel" size="105,108">
+      <children xsi:type="editmodel:AttributeEditModel" id="susanneUweJ200010603"/>
+      <children xsi:type="editmodel:AttributeEditModel" id="susanneUweJ200010605"/>
+      <children xsi:type="editmodel:AttributeEditModel" id="MatthiasuweJ200011604"/>
+      <children xsi:type="editmodel:AttributeEditModel" id="MatthiasuweJ200011616"/>
+      <children xsi:type="editmodel:AttributeEditModel" id="MatthiasuweJ200011608"/>
+      <children xsi:type="editmodel:AttributeEditModel" id="MatthiasuweJ200011612"/>
+    </children>
+    <children xsi:type="editmodel:CompartmentEditModel" size="94,108">
+      <children xsi:type="editmodel:MethodEditModel" id="susanneUweJ200010609"/>
+      <children xsi:type="editmodel:MethodEditModel" id="susanneUweJ200010607"/>
+      <children xsi:type="editmodel:MethodEditModel" id="MatthiasuweJ200011654"/>
+      <children xsi:type="editmodel:MethodEditModel" id="MatthiasuweJ200011796"/>
+      <children xsi:type="editmodel:MethodEditModel" id="MatthiasuweJ200011820"/>
+      <children xsi:type="editmodel:MethodEditModel" id="MatthiasuweJ200012883"/>
+    </children>
+    <children xsi:type="editmodel:CompartmentEditModel"/>
+    <classifierPreferences xsi:type="editmodel:UMLClassDiagramClassifierPreference" showStereotype="true" attributeSorter="Natural" methodSorter="Natural" innerClassSorter="Natural" showPublicAttributes="true" showPackageAttributes="true" showPublicMethods="true" showPackageMethods="true" showPublicInnerClasses="true" showPackageInnerClasses="true"/>
+  </children>
+  <children xsi:type="editmodel:ClassEditModel" location="75,53" size="65,29" id="MatthiasuweJ200011664" runTimeClassModel="MatthiasuweJ200012522;MatthiasuweJ200011665;MatthiasuweJ200012506;MatthiasuweJ200012512;MatthiasuweJ200012517;MatthiasuweJ200012515;MatthiasuweJ200012509">
+    <children xsi:type="editmodel:CompartmentEditModel"/>
+    <children xsi:type="editmodel:CompartmentEditModel"/>
+    <children xsi:type="editmodel:CompartmentEditModel"/>
+    <classifierPreferences xsi:type="editmodel:UMLClassDiagramClassifierPreference" showStereotype="true" attributeSorter="Natural" methodSorter="Natural" innerClassSorter="Natural" showPublicAttributes="true" showPackageAttributes="true" showPublicMethods="true" showPackageMethods="true" showPublicInnerClasses="true" showPackageInnerClasses="true"/>
+  </children>
+  <children xsi:type="editmodel:ClassEditModel" location="557,59" size="128,175" id="MatthiasuweJ200012392" runTimeClassModel="MatthiasuweJ200012409;MatthiasuweJ200012399;MatthiasuweJ200012486;MatthiasuweJ200012501;MatthiasuweJ200013860;MatthiasuweJ200013882;MatthiasuweJ200012401;MatthiasuweJ200012447;MatthiasuweJ200013870;MatthiasuweJ200012397;MatthiasuweJ200013878;MatthiasuweJ200012402;MatthiasuweJ200012424;MatthiasuweJ200012440;MatthiasuweJ200012499;MatthiasuweJ200012400;MatthiasuweJ200012503;MatthiasuweJ200013876;MatthiasuweJ200012416;MatthiasuweJ200012436;MatthiasuweJ200012398;MatthiasuweJ200013861;MatthiasuweJ200012407;MatthiasuweJ200012492;MatthiasuweJ200013857;MatthiasuweJ200012488;MatthiasuweJ200012432;MatthiasuweJ200013873;MatthiasuweJ200013858;MatthiasuweJ200012428;MatthiasuweJ200012403;MatthiasuweJ200012420;MatthiasuweJ200012394;MatthiasuweJ200014056;MatthiasuweJ200012490">
+    <children xsi:type="editmodel:CompartmentEditModel" size="105,72">
+      <children xsi:type="editmodel:AttributeEditModel" id="MatthiasuweJ200012428"/>
+      <children xsi:type="editmodel:AttributeEditModel" id="MatthiasuweJ200012424"/>
+      <children xsi:type="editmodel:AttributeEditModel" id="MatthiasuweJ200012420"/>
+      <children xsi:type="editmodel:AttributeEditModel" id="MatthiasuweJ200012416"/>
+    </children>
+    <children xsi:type="editmodel:CompartmentEditModel" size="94,54">
+      <children xsi:type="editmodel:MethodEditModel" id="MatthiasuweJ200012403"/>
+      <children xsi:type="editmodel:MethodEditModel" id="MatthiasuweJ200012409"/>
+      <children xsi:type="editmodel:MethodEditModel" id="MatthiasuweJ200013870"/>
+    </children>
+    <children xsi:type="editmodel:CompartmentEditModel"/>
+    <classifierPreferences xsi:type="editmodel:UMLClassDiagramClassifierPreference" showStereotype="true" attributeSorter="Natural" methodSorter="Natural" innerClassSorter="Natural" showPublicAttributes="true" showPackageAttributes="true" showPublicMethods="true" showPackageMethods="true" showPublicInnerClasses="true" showPackageInnerClasses="true"/>
+  </children>
+  <children xsi:type="editmodel:ClassEditModel" location="555,289" size="101,103" id="MatthiasuweJ200015448" runTimeClassModel="MatthiasuweJ200015576;MatthiasuweJ200015548;MatthiasuweJ200015592;MatthiasuweJ200015570;MatthiasuweJ200015468;MatthiasuweJ200015568;MatthiasuweJ200015458;MatthiasuweJ200015601;MatthiasuweJ200015652;MatthiasuweJ200015460;MatthiasuweJ200015588;MatthiasuweJ200015566;MatthiasuweJ200015603;MatthiasuweJ200015572;MatthiasuweJ200015544;MatthiasuweJ200015465;MatthiasuweJ200015550;MatthiasuweJ200015450;MatthiasuweJ200015546;MatthiasuweJ200015619;MatthiasuweJ200015452;MatthiasuweJ200015654;MatthiasuweJ200015574;MatthiasuweJ200015564;MatthiasuweJ200015558;MatthiasuweJ200015512;MatthiasuweJ200015606;MatthiasuweJ200015580;MatthiasuweJ200015668;MatthiasuweJ200015562;MatthiasuweJ200015584;MatthiasuweJ200015454;MatthiasuweJ200015590;MatthiasuweJ200015463;MatthiasuweJ200015586;MatthiasuweJ200015621;MatthiasuweJ200015578;MatthiasuweJ200015582;MatthiasuweJ200015542;MatthiasuweJ200015456;MatthiasuweJ200015560">
+    <children xsi:type="editmodel:CompartmentEditModel"/>
+    <children xsi:type="editmodel:CompartmentEditModel" size="72,54">
+      <children xsi:type="editmodel:MethodEditModel" id="MatthiasuweJ200015460"/>
+      <children xsi:type="editmodel:MethodEditModel" id="MatthiasuweJ200015463"/>
+      <children xsi:type="editmodel:MethodEditModel" id="MatthiasuweJ200015468"/>
+    </children>
+    <children xsi:type="editmodel:CompartmentEditModel"/>
+    <classifierPreferences xsi:type="editmodel:UMLClassDiagramClassifierPreference" showStereotype="true" attributeSorter="Natural" methodSorter="Natural" innerClassSorter="Natural" showPublicAttributes="true" showPackageAttributes="true" showPublicMethods="true" showPackageMethods="true" showPublicInnerClasses="true" showPackageInnerClasses="true"/>
+  </children>
+  <classDiagramPreferences xsi:type="editmodel:UMLClassDiagramPreference" attributeSorter="Natural" methodSorter="Natural" innerClassSorter="Natural" showPublicAttributes="true" showPackageAttributes="true" showPublicMethods="true" showPackageMethods="true" showPublicInnerClasses="true" showPackageInnerClasses="true" showInterfaceStereotype="true" showClassStereotype="true" showPackageStereotype="true"/>
+</editmodel:ClassDiagramEditModel>
