@@ -1,0 +1,321 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<editmodel:ClassDiagramEditModel xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:editmodel="editmodel.xmi" size="1880,1064" id="susanneuweWavelet721" metadata="nsuml-1.4" initialized="true" showWireOptions="1">
+  <children xsi:type="editmodel:ClassEditModel" location="1423,581" size="86,30" id="susanneuweWavelet1231" runTimeClassModel="susanneuweWavelet1242;susanneuweWavelet1240;susanneuweWavelet1236;susanneuweWavelet1234;susanneuweWavelet1232;susanneuweWavelet1244">
+    <children xsi:type="editmodel:CompartmentEditModel"/>
+    <children xsi:type="editmodel:CompartmentEditModel"/>
+    <children xsi:type="editmodel:CompartmentEditModel"/>
+    <classifierPreferences xsi:type="editmodel:UMLClassDiagramClassifierPreference" showStereotype="true" attributeSorter="Natural" methodSorter="Natural" innerClassSorter="Natural" showPublicAttributes="true" showPackageAttributes="true" showPublicMethods="true" showPackageMethods="true" showPublicInnerClasses="true" showPackageInnerClasses="true"/>
+  </children>
+  <children xsi:type="editmodel:ClassEditModel" location="661,463" size="179,68" id="susanneuweWavelet1201" runTimeClassModel="susanneuweWavelet1204;susanneuweWavelet1202;susanneuweWavelet1206;susanneuweWavelet1210;susanneuweWavelet1214">
+    <children xsi:type="editmodel:CompartmentEditModel"/>
+    <children xsi:type="editmodel:CompartmentEditModel" size="139,18">
+      <children xsi:type="editmodel:MethodEditModel" id="susanneuweWavelet1214"/>
+    </children>
+    <children xsi:type="editmodel:CompartmentEditModel"/>
+    <sourceConnections xsi:type="editmodel:GeneralizationEditModel" connectionRouterKind="Manual" source="//@children.1" target="//@children.9/@sourceConnections.0" targetEnd="//@children.1/@sourceConnections.0/@children.1" sourceEnd="//@children.1/@sourceConnections.0/@children.0">
+      <children xsi:type="editmodel:AssociationEndEditModel" location="89,0" anchorKind="FixedAtEdge" attachSource="true"/>
+      <children xsi:type="editmodel:AssociationEndEditModel"/>
+    </sourceConnections>
+    <classifierPreferences xsi:type="editmodel:UMLClassDiagramClassifierPreference" showStereotype="true" attributeSorter="Natural" methodSorter="Natural" innerClassSorter="Natural" showPublicAttributes="true" showPackageAttributes="true" showPublicMethods="true" showPackageMethods="true" showPublicInnerClasses="true" showPackageInnerClasses="true"/>
+  </children>
+  <children xsi:type="editmodel:ClassEditModel" location="870,463" size="179,68" id="susanneuweWavelet1183" runTimeClassModel="susanneuweWavelet1192;susanneuweWavelet1186;susanneuweWavelet1188;susanneuweWavelet1184;susanneuweWavelet1196">
+    <children xsi:type="editmodel:CompartmentEditModel"/>
+    <children xsi:type="editmodel:CompartmentEditModel" size="139,18">
+      <children xsi:type="editmodel:MethodEditModel" id="susanneuweWavelet1196"/>
+    </children>
+    <children xsi:type="editmodel:CompartmentEditModel"/>
+    <sourceConnections xsi:type="editmodel:GeneralizationEditModel" connectionRouterKind="Manual" source="//@children.2" target="//@children.9/@sourceConnections.0" targetEnd="//@children.2/@sourceConnections.0/@children.1" sourceEnd="//@children.2/@sourceConnections.0/@children.0">
+      <children xsi:type="editmodel:AssociationEndEditModel" location="89,0" anchorKind="FixedAtEdge" attachSource="true"/>
+      <children xsi:type="editmodel:AssociationEndEditModel"/>
+    </sourceConnections>
+    <classifierPreferences xsi:type="editmodel:UMLClassDiagramClassifierPreference" showStereotype="true" attributeSorter="Natural" methodSorter="Natural" innerClassSorter="Natural" showPublicAttributes="true" showPackageAttributes="true" showPublicMethods="true" showPackageMethods="true" showPublicInnerClasses="true" showPackageInnerClasses="true"/>
+  </children>
+  <children xsi:type="editmodel:ClassEditModel" location="1691,463" size="169,30" id="susanneuweWavelet1161" runTimeClassModel="">
+    <children xsi:type="editmodel:CompartmentEditModel"/>
+    <children xsi:type="editmodel:CompartmentEditModel"/>
+    <children xsi:type="editmodel:CompartmentEditModel"/>
+    <sourceConnections xsi:type="editmodel:GeneralizationEditModel" connectionRouterKind="Manual" source="//@children.3" target="//@children.9/@sourceConnections.0" targetEnd="//@children.3/@sourceConnections.0/@children.1" sourceEnd="//@children.3/@sourceConnections.0/@children.0">
+      <children xsi:type="editmodel:AssociationEndEditModel" location="84,0" anchorKind="FixedAtEdge" attachSource="true"/>
+      <children xsi:type="editmodel:AssociationEndEditModel"/>
+    </sourceConnections>
+    <classifierPreferences xsi:type="editmodel:UMLClassDiagramClassifierPreference" showStereotype="true" attributeSorter="Natural" methodSorter="Natural" innerClassSorter="Natural" showPublicAttributes="true" showPackageAttributes="true" showPublicMethods="true" showPackageMethods="true" showPublicInnerClasses="true" showPackageInnerClasses="true"/>
+  </children>
+  <children xsi:type="editmodel:InterfaceEditModel" location="451,50" size="148,137" stereotype="interface" targetConnections="//@children.13/@sourceConnections.0" id="susanneuweWavelet955" runTimeClassModel="susanneuweWavelet967;susanneuweWavelet957;susanneuweWavelet965;susanneuweWavelet961">
+    <children xsi:type="editmodel:CompartmentEditModel"/>
+    <children xsi:type="editmodel:CompartmentEditModel" size="125,72">
+      <children xsi:type="editmodel:MethodEditModel" id="susanneuweWavelet957"/>
+      <children xsi:type="editmodel:MethodEditModel" id="susanneuweWavelet961"/>
+      <children xsi:type="editmodel:MethodEditModel" id="susanneuweWavelet967"/>
+      <children xsi:type="editmodel:MethodEditModel" id="susanneuweWavelet965"/>
+    </children>
+    <children xsi:type="editmodel:CompartmentEditModel"/>
+    <classifierPreferences xsi:type="editmodel:UMLClassDiagramClassifierPreference" showStereotype="true" attributeSorter="Natural" methodSorter="Natural" innerClassSorter="Natural" showPublicAttributes="true" showPackageAttributes="true" showPublicMethods="true" showPackageMethods="true" showPublicInnerClasses="true" showPackageInnerClasses="true"/>
+  </children>
+  <children xsi:type="editmodel:ClassEditModel" location="1280,463" size="169,30" id="susanneuweWavelet1154" runTimeClassModel="">
+    <children xsi:type="editmodel:CompartmentEditModel"/>
+    <children xsi:type="editmodel:CompartmentEditModel"/>
+    <children xsi:type="editmodel:CompartmentEditModel"/>
+    <sourceConnections xsi:type="editmodel:GeneralizationEditModel" connectionRouterKind="Manual" source="//@children.5" target="//@children.9/@sourceConnections.0" targetEnd="//@children.5/@sourceConnections.0/@children.1" sourceEnd="//@children.5/@sourceConnections.0/@children.0">
+      <children xsi:type="editmodel:AssociationEndEditModel" location="84,0" anchorKind="FixedAtEdge" attachSource="true"/>
+      <children xsi:type="editmodel:AssociationEndEditModel"/>
+    </sourceConnections>
+    <classifierPreferences xsi:type="editmodel:UMLClassDiagramClassifierPreference" showStereotype="true" attributeSorter="Natural" methodSorter="Natural" innerClassSorter="Natural" showPublicAttributes="true" showPackageAttributes="true" showPublicMethods="true" showPackageMethods="true" showPublicInnerClasses="true" showPackageInnerClasses="true"/>
+  </children>
+  <children xsi:type="editmodel:ClassEditModel" location="1479,463" size="182,68" id="susanneuweWavelet1219" runTimeClassModel="susanneuweWavelet1224;susanneuweWavelet1220;susanneuweWavelet1228">
+    <children xsi:type="editmodel:CompartmentEditModel"/>
+    <children xsi:type="editmodel:CompartmentEditModel" size="145,18">
+      <children xsi:type="editmodel:MethodEditModel" id="susanneuweWavelet1228"/>
+    </children>
+    <children xsi:type="editmodel:CompartmentEditModel"/>
+    <sourceConnections xsi:type="editmodel:GeneralizationEditModel" connectionRouterKind="Manual" source="//@children.6" target="//@children.9/@sourceConnections.0" targetEnd="//@children.6/@sourceConnections.0/@children.1" sourceEnd="//@children.6/@sourceConnections.0/@children.0">
+      <children xsi:type="editmodel:AssociationEndEditModel" location="91,0" anchorKind="FixedAtEdge" attachSource="true"/>
+      <children xsi:type="editmodel:AssociationEndEditModel"/>
+    </sourceConnections>
+    <classifierPreferences xsi:type="editmodel:UMLClassDiagramClassifierPreference" showStereotype="true" attributeSorter="Natural" methodSorter="Natural" innerClassSorter="Natural" showPublicAttributes="true" showPackageAttributes="true" showPublicMethods="true" showPackageMethods="true" showPublicInnerClasses="true" showPackageInnerClasses="true"/>
+  </children>
+  <children xsi:type="editmodel:ClassEditModel" location="392,237" size="176,158" id="susanneuweWavelet996" runTimeClassModel="susanneuweWavelet1035;susanneuweWavelet999;susanneuweWavelet1019;susanneuweWavelet1031;susanneuweWavelet1027;susanneuweWavelet1039;susanneuweWavelet1023;susanneuweWavelet1001;susanneuweWavelet1017;susanneuweWavelet997;susanneuweWavelet1005;susanneuweWavelet1009;susanneuweWavelet1013;susanneuweWavelet1021">
+    <children xsi:type="editmodel:CompartmentEditModel"/>
+    <children xsi:type="editmodel:CompartmentEditModel" size="125,108">
+      <children xsi:type="editmodel:MethodEditModel" id="susanneuweWavelet1013"/>
+      <children xsi:type="editmodel:MethodEditModel" id="susanneuweWavelet1009"/>
+      <children xsi:type="editmodel:MethodEditModel" id="susanneuweWavelet1039"/>
+      <children xsi:type="editmodel:MethodEditModel" id="susanneuweWavelet1019"/>
+      <children xsi:type="editmodel:MethodEditModel" id="susanneuweWavelet1017"/>
+      <children xsi:type="editmodel:MethodEditModel" id="susanneuweWavelet1021"/>
+    </children>
+    <children xsi:type="editmodel:CompartmentEditModel"/>
+    <sourceConnections xsi:type="editmodel:GeneralizationEditModel" connectionRouterKind="Manual" source="//@children.7" target="//@children.13/@sourceConnections.0" targetEnd="//@children.7/@sourceConnections.0/@children.1" sourceEnd="//@children.7/@sourceConnections.0/@children.0">
+      <children xsi:type="editmodel:AssociationEndEditModel" location="88,0" anchorKind="FixedAtEdge" attachSource="true"/>
+      <children xsi:type="editmodel:AssociationEndEditModel"/>
+    </sourceConnections>
+    <classifierPreferences xsi:type="editmodel:UMLClassDiagramClassifierPreference" showStereotype="true" attributeSorter="Natural" methodSorter="Natural" innerClassSorter="Natural" showPublicAttributes="true" showPackageAttributes="true" showPublicMethods="true" showPackageMethods="true" showPublicInnerClasses="true" showPackageInnerClasses="true"/>
+  </children>
+  <children xsi:type="editmodel:ClassEditModel" location="50,237" size="177,158" id="susanneuweWavelet972" runTimeClassModel="susanneuweWavelet975;susanneuweWavelet989;susanneuweWavelet983;susanneuweWavelet973;susanneuweWavelet979;susanneuweWavelet985;susanneuweWavelet987">
+    <children xsi:type="editmodel:CompartmentEditModel"/>
+    <children xsi:type="editmodel:CompartmentEditModel" size="125,108">
+      <children xsi:type="editmodel:MethodEditModel" id="susanneuweWavelet975"/>
+      <children xsi:type="editmodel:MethodEditModel" id="susanneuweWavelet979"/>
+      <children xsi:type="editmodel:MethodEditModel" id="susanneuweWavelet989"/>
+      <children xsi:type="editmodel:MethodEditModel" id="susanneuweWavelet985"/>
+      <children xsi:type="editmodel:MethodEditModel" id="susanneuweWavelet983"/>
+      <children xsi:type="editmodel:MethodEditModel" id="susanneuweWavelet987"/>
+    </children>
+    <children xsi:type="editmodel:CompartmentEditModel"/>
+    <sourceConnections xsi:type="editmodel:GeneralizationEditModel" connectionRouterKind="Manual" source="//@children.8" target="//@children.13/@sourceConnections.0" targetEnd="//@children.8/@sourceConnections.0/@children.1" sourceEnd="//@children.8/@sourceConnections.0/@children.0">
+      <children xsi:type="editmodel:AssociationEndEditModel" location="88,0" anchorKind="FixedAtEdge" attachSource="true"/>
+      <children xsi:type="editmodel:AssociationEndEditModel"/>
+    </sourceConnections>
+    <classifierPreferences xsi:type="editmodel:UMLClassDiagramClassifierPreference" showStereotype="true" attributeSorter="Natural" methodSorter="Natural" innerClassSorter="Natural" showPublicAttributes="true" showPackageAttributes="true" showPublicMethods="true" showPackageMethods="true" showPublicInnerClasses="true" showPackageInnerClasses="true"/>
+  </children>
+  <children xsi:type="editmodel:ClassEditModel" location="50,463" size="179,68" id="susanneuweWavelet1165" runTimeClassModel="susanneuweWavelet1178;susanneuweWavelet1174;susanneuweWavelet1170;susanneuweWavelet1168;susanneuweWavelet1166">
+    <children xsi:type="editmodel:CompartmentEditModel"/>
+    <children xsi:type="editmodel:CompartmentEditModel" size="139,18">
+      <children xsi:type="editmodel:MethodEditModel" id="susanneuweWavelet1178"/>
+    </children>
+    <children xsi:type="editmodel:CompartmentEditModel"/>
+    <sourceConnections xsi:type="editmodel:GeneralizationEditModel" targetConnections="//@children.10/@sourceConnections.0 //@children.11/@sourceConnections.0 //@children.1/@sourceConnections.0 //@children.2/@sourceConnections.0 //@children.12/@sourceConnections.0 //@children.5/@sourceConnections.0 //@children.6/@sourceConnections.0 //@children.3/@sourceConnections.0" connectionRouterKind="GeneralizationManhattan" source="//@children.9" target="//@children.13" targetEnd="//@children.9/@sourceConnections.0/@children.1" sourceEnd="//@children.9/@sourceConnections.0/@children.0">
+      <children xsi:type="editmodel:AssociationEndEditModel" location="89,0" anchorKind="FixedAtEdge" attachSource="true"/>
+      <children xsi:type="editmodel:AssociationEndEditModel" location="84,176" anchorKind="FixedAtEdge"/>
+    </sourceConnections>
+    <classifierPreferences xsi:type="editmodel:UMLClassDiagramClassifierPreference" showStereotype="true" attributeSorter="Natural" methodSorter="Natural" innerClassSorter="Natural" showPublicAttributes="true" showPackageAttributes="true" showPublicMethods="true" showPackageMethods="true" showPublicInnerClasses="true" showPackageInnerClasses="true"/>
+  </children>
+  <children xsi:type="editmodel:ClassEditModel" location="259,463" size="171,68" id="susanneuweWavelet1100" runTimeClassModel="susanneuweWavelet1101;susanneuweWavelet1109;susanneuweWavelet1113;susanneuweWavelet1105;susanneuweWavelet1103">
+    <children xsi:type="editmodel:CompartmentEditModel"/>
+    <children xsi:type="editmodel:CompartmentEditModel" size="134,18">
+      <children xsi:type="editmodel:MethodEditModel" id="susanneuweWavelet1113"/>
+    </children>
+    <children xsi:type="editmodel:CompartmentEditModel"/>
+    <sourceConnections xsi:type="editmodel:GeneralizationEditModel" connectionRouterKind="Manual" source="//@children.10" target="//@children.9/@sourceConnections.0" targetEnd="//@children.10/@sourceConnections.0/@children.1" sourceEnd="//@children.10/@sourceConnections.0/@children.0">
+      <children xsi:type="editmodel:AssociationEndEditModel" location="85,0" anchorKind="FixedAtEdge" attachSource="true"/>
+      <children xsi:type="editmodel:AssociationEndEditModel"/>
+    </sourceConnections>
+    <classifierPreferences xsi:type="editmodel:UMLClassDiagramClassifierPreference" showStereotype="true" attributeSorter="Natural" methodSorter="Natural" innerClassSorter="Natural" showPublicAttributes="true" showPackageAttributes="true" showPublicMethods="true" showPackageMethods="true" showPublicInnerClasses="true" showPackageInnerClasses="true"/>
+  </children>
+  <children xsi:type="editmodel:ClassEditModel" location="460,463" size="171,68" id="susanneuweWavelet1118" runTimeClassModel="susanneuweWavelet1127;susanneuweWavelet1121;susanneuweWavelet1119;susanneuweWavelet1123;susanneuweWavelet1131">
+    <children xsi:type="editmodel:CompartmentEditModel"/>
+    <children xsi:type="editmodel:CompartmentEditModel" size="134,18">
+      <children xsi:type="editmodel:MethodEditModel" id="susanneuweWavelet1131"/>
+    </children>
+    <children xsi:type="editmodel:CompartmentEditModel"/>
+    <sourceConnections xsi:type="editmodel:GeneralizationEditModel" connectionRouterKind="Manual" source="//@children.11" target="//@children.9/@sourceConnections.0" targetEnd="//@children.11/@sourceConnections.0/@children.1" sourceEnd="//@children.11/@sourceConnections.0/@children.0">
+      <children xsi:type="editmodel:AssociationEndEditModel" location="85,0" anchorKind="FixedAtEdge" attachSource="true"/>
+      <children xsi:type="editmodel:AssociationEndEditModel"/>
+    </sourceConnections>
+    <classifierPreferences xsi:type="editmodel:UMLClassDiagramClassifierPreference" showStereotype="true" attributeSorter="Natural" methodSorter="Natural" innerClassSorter="Natural" showPublicAttributes="true" showPackageAttributes="true" showPublicMethods="true" showPackageMethods="true" showPublicInnerClasses="true" showPackageInnerClasses="true"/>
+  </children>
+  <children xsi:type="editmodel:ClassEditModel" location="1079,463" size="171,68" id="susanneuweWavelet1136" runTimeClassModel="susanneuweWavelet1137;susanneuweWavelet1139;susanneuweWavelet1141;susanneuweWavelet1145;susanneuweWavelet1149">
+    <children xsi:type="editmodel:CompartmentEditModel"/>
+    <children xsi:type="editmodel:CompartmentEditModel" size="134,18">
+      <children xsi:type="editmodel:MethodEditModel" id="susanneuweWavelet1149"/>
+    </children>
+    <children xsi:type="editmodel:CompartmentEditModel"/>
+    <sourceConnections xsi:type="editmodel:GeneralizationEditModel" connectionRouterKind="Manual" source="//@children.12" target="//@children.9/@sourceConnections.0" targetEnd="//@children.12/@sourceConnections.0/@children.1" sourceEnd="//@children.12/@sourceConnections.0/@children.0">
+      <children xsi:type="editmodel:AssociationEndEditModel" location="85,0" anchorKind="FixedAtEdge" attachSource="true"/>
+      <children xsi:type="editmodel:AssociationEndEditModel"/>
+    </sourceConnections>
+    <classifierPreferences xsi:type="editmodel:UMLClassDiagramClassifierPreference" showStereotype="true" attributeSorter="Natural" methodSorter="Natural" innerClassSorter="Natural" showPublicAttributes="true" showPackageAttributes="true" showPublicMethods="true" showPackageMethods="true" showPublicInnerClasses="true" showPackageInnerClasses="true"/>
+  </children>
+  <children xsi:type="editmodel:ClassEditModel" location="873,237" size="168,176" targetConnections="//@children.9/@sourceConnections.0" id="susanneuweWavelet1050" runTimeClassModel="susanneuweWavelet1057;susanneuweWavelet1051;susanneuweWavelet1091;susanneuweWavelet1083;susanneuweWavelet1079;susanneuweWavelet1089;susanneuweWavelet1064;susanneuweWavelet1059;susanneuweWavelet1093;susanneuweWavelet1058;susanneuweWavelet1069;susanneuweWavelet1054;susanneuweWavelet1087">
+    <children xsi:type="editmodel:CompartmentEditModel"/>
+    <children xsi:type="editmodel:CompartmentEditModel" size="133,126">
+      <children xsi:type="editmodel:MethodEditModel" id="susanneuweWavelet1079"/>
+      <children xsi:type="editmodel:MethodEditModel" id="susanneuweWavelet1083"/>
+      <children xsi:type="editmodel:MethodEditModel" id="susanneuweWavelet1069"/>
+      <children xsi:type="editmodel:MethodEditModel" id="susanneuweWavelet1091"/>
+      <children xsi:type="editmodel:MethodEditModel" id="susanneuweWavelet1089"/>
+      <children xsi:type="editmodel:MethodEditModel" id="susanneuweWavelet1087"/>
+      <children xsi:type="editmodel:MethodEditModel" id="susanneuweWavelet1093"/>
+    </children>
+    <children xsi:type="editmodel:CompartmentEditModel"/>
+    <sourceConnections xsi:type="editmodel:GeneralizationEditModel" targetConnections="//@children.8/@sourceConnections.0 //@children.7/@sourceConnections.0" connectionRouterKind="GeneralizationManhattan" source="//@children.13" target="//@children.4" targetEnd="//@children.13/@sourceConnections.0/@children.1" sourceEnd="//@children.13/@sourceConnections.0/@children.0">
+      <children xsi:type="editmodel:AssociationEndEditModel" location="84,0" anchorKind="FixedAtEdge" attachSource="true"/>
+      <children xsi:type="editmodel:AssociationEndEditModel" location="74,137" anchorKind="FixedAtEdge"/>
+    </sourceConnections>
+    <classifierPreferences xsi:type="editmodel:UMLClassDiagramClassifierPreference" showStereotype="true" attributeSorter="Natural" methodSorter="Natural" innerClassSorter="Natural" showPublicAttributes="true" showPackageAttributes="true" showPublicMethods="true" showPackageMethods="true" showPublicInnerClasses="true" showPackageInnerClasses="true"/>
+  </children>
+  <children xsi:type="editmodel:ClassEditModel" location="50,750" size="164,140" id="susanneuweWavelet739" runTimeClassModel="susanneuweWavelet754;susanneuweWavelet747;susanneuweWavelet742;susanneuweWavelet740;susanneuweWavelet756;susanneuweWavelet752">
+    <children xsi:type="editmodel:CompartmentEditModel"/>
+    <children xsi:type="editmodel:CompartmentEditModel" size="88,90">
+      <children xsi:type="editmodel:MethodEditModel" id="susanneuweWavelet747"/>
+      <children xsi:type="editmodel:MethodEditModel" id="susanneuweWavelet742"/>
+      <children xsi:type="editmodel:MethodEditModel" id="susanneuweWavelet754"/>
+      <children xsi:type="editmodel:MethodEditModel" id="susanneuweWavelet752"/>
+      <children xsi:type="editmodel:MethodEditModel" id="susanneuweWavelet756"/>
+    </children>
+    <children xsi:type="editmodel:CompartmentEditModel"/>
+    <sourceConnections xsi:type="editmodel:GeneralizationEditModel" connectionRouterKind="Manual" source="//@children.14" target="//@children.23/@sourceConnections.0" targetEnd="//@children.14/@sourceConnections.0/@children.1" sourceEnd="//@children.14/@sourceConnections.0/@children.0">
+      <children xsi:type="editmodel:AssociationEndEditModel" location="82,0" anchorKind="FixedAtEdge" attachSource="true"/>
+      <children xsi:type="editmodel:AssociationEndEditModel"/>
+    </sourceConnections>
+    <classifierPreferences xsi:type="editmodel:UMLClassDiagramClassifierPreference" showStereotype="true" attributeSorter="Natural" methodSorter="Natural" innerClassSorter="Natural" showPublicAttributes="true" showPackageAttributes="true" showPublicMethods="true" showPackageMethods="true" showPublicInnerClasses="true" showPackageInnerClasses="true"/>
+  </children>
+  <children xsi:type="editmodel:ClassEditModel" location="308,750" size="163,140" id="susanneuweWavelet763" runTimeClassModel="susanneuweWavelet776;susanneuweWavelet806;susanneuweWavelet768;susanneuweWavelet788;susanneuweWavelet802;susanneuweWavelet798;susanneuweWavelet774;susanneuweWavelet781;susanneuweWavelet772;susanneuweWavelet786;susanneuweWavelet790;susanneuweWavelet764;susanneuweWavelet794">
+    <children xsi:type="editmodel:CompartmentEditModel"/>
+    <children xsi:type="editmodel:CompartmentEditModel" size="88,90">
+      <children xsi:type="editmodel:MethodEditModel" id="susanneuweWavelet781"/>
+      <children xsi:type="editmodel:MethodEditModel" id="susanneuweWavelet776"/>
+      <children xsi:type="editmodel:MethodEditModel" id="susanneuweWavelet788"/>
+      <children xsi:type="editmodel:MethodEditModel" id="susanneuweWavelet786"/>
+      <children xsi:type="editmodel:MethodEditModel" id="susanneuweWavelet806"/>
+    </children>
+    <children xsi:type="editmodel:CompartmentEditModel"/>
+    <sourceConnections xsi:type="editmodel:GeneralizationEditModel" connectionRouterKind="Manual" source="//@children.15" target="//@children.23/@sourceConnections.0" targetEnd="//@children.15/@sourceConnections.0/@children.1" sourceEnd="//@children.15/@sourceConnections.0/@children.0">
+      <children xsi:type="editmodel:AssociationEndEditModel" location="81,0" anchorKind="FixedAtEdge" attachSource="true"/>
+      <children xsi:type="editmodel:AssociationEndEditModel"/>
+    </sourceConnections>
+    <classifierPreferences xsi:type="editmodel:UMLClassDiagramClassifierPreference" showStereotype="true" attributeSorter="Natural" methodSorter="Natural" innerClassSorter="Natural" showPublicAttributes="true" showPackageAttributes="true" showPublicMethods="true" showPackageMethods="true" showPublicInnerClasses="true" showPackageInnerClasses="true"/>
+  </children>
+  <children xsi:type="editmodel:ClassEditModel" location="1215,976" size="158,68" id="susanneuweWavelet895" runTimeClassModel="susanneuweWavelet904;susanneuweWavelet896;susanneuweWavelet900">
+    <children xsi:type="editmodel:CompartmentEditModel"/>
+    <children xsi:type="editmodel:CompartmentEditModel" size="124,18">
+      <children xsi:type="editmodel:MethodEditModel" id="susanneuweWavelet904"/>
+    </children>
+    <children xsi:type="editmodel:CompartmentEditModel"/>
+    <sourceConnections xsi:type="editmodel:GeneralizationEditModel" connectionRouterKind="Manual" source="//@children.16" target="//@children.20/@sourceConnections.0" targetEnd="//@children.16/@sourceConnections.0/@children.1" sourceEnd="//@children.16/@sourceConnections.0/@children.0">
+      <children xsi:type="editmodel:AssociationEndEditModel" location="79,0" anchorKind="FixedAtEdge" attachSource="true"/>
+      <children xsi:type="editmodel:AssociationEndEditModel"/>
+    </sourceConnections>
+    <classifierPreferences xsi:type="editmodel:UMLClassDiagramClassifierPreference" showStereotype="true" attributeSorter="Natural" methodSorter="Natural" innerClassSorter="Natural" showPublicAttributes="true" showPackageAttributes="true" showPublicMethods="true" showPackageMethods="true" showPublicInnerClasses="true" showPackageInnerClasses="true"/>
+  </children>
+  <children xsi:type="editmodel:ClassEditModel" location="630,976" size="166,68" id="susanneuweWavelet919" runTimeClassModel="susanneuweWavelet928;susanneuweWavelet924;susanneuweWavelet920">
+    <children xsi:type="editmodel:CompartmentEditModel"/>
+    <children xsi:type="editmodel:CompartmentEditModel" size="129,18">
+      <children xsi:type="editmodel:MethodEditModel" id="susanneuweWavelet928"/>
+    </children>
+    <children xsi:type="editmodel:CompartmentEditModel"/>
+    <sourceConnections xsi:type="editmodel:GeneralizationEditModel" connectionRouterKind="Manual" source="//@children.17" target="//@children.20/@sourceConnections.0" targetEnd="//@children.17/@sourceConnections.0/@children.1" sourceEnd="//@children.17/@sourceConnections.0/@children.0">
+      <children xsi:type="editmodel:AssociationEndEditModel" location="83,0" anchorKind="FixedAtEdge" attachSource="true"/>
+      <children xsi:type="editmodel:AssociationEndEditModel"/>
+    </sourceConnections>
+    <classifierPreferences xsi:type="editmodel:UMLClassDiagramClassifierPreference" showStereotype="true" attributeSorter="Natural" methodSorter="Natural" innerClassSorter="Natural" showPublicAttributes="true" showPackageAttributes="true" showPublicMethods="true" showPackageMethods="true" showPublicInnerClasses="true" showPackageInnerClasses="true"/>
+  </children>
+  <children xsi:type="editmodel:InterfaceEditModel" location="344,581" size="134,119" stereotype="interface" targetConnections="//@children.23/@sourceConnections.0" id="susanneuweWavelet722" runTimeClassModel="susanneuweWavelet724;susanneuweWavelet729;susanneuweWavelet734">
+    <children xsi:type="editmodel:CompartmentEditModel"/>
+    <children xsi:type="editmodel:CompartmentEditModel" size="88,54">
+      <children xsi:type="editmodel:MethodEditModel" id="susanneuweWavelet724"/>
+      <children xsi:type="editmodel:MethodEditModel" id="susanneuweWavelet729"/>
+      <children xsi:type="editmodel:MethodEditModel" id="susanneuweWavelet734"/>
+    </children>
+    <children xsi:type="editmodel:CompartmentEditModel"/>
+    <classifierPreferences xsi:type="editmodel:UMLClassDiagramClassifierPreference" showStereotype="true" attributeSorter="Natural" methodSorter="Natural" innerClassSorter="Natural" showPublicAttributes="true" showPackageAttributes="true" showPublicMethods="true" showPackageMethods="true" showPublicInnerClasses="true" showPackageInnerClasses="true"/>
+  </children>
+  <children xsi:type="editmodel:ClassEditModel" location="826,976" size="158,68" id="susanneuweWavelet871" runTimeClassModel="susanneuweWavelet880;susanneuweWavelet876;susanneuweWavelet872">
+    <children xsi:type="editmodel:CompartmentEditModel"/>
+    <children xsi:type="editmodel:CompartmentEditModel" size="124,18">
+      <children xsi:type="editmodel:MethodEditModel" id="susanneuweWavelet880"/>
+    </children>
+    <children xsi:type="editmodel:CompartmentEditModel"/>
+    <sourceConnections xsi:type="editmodel:GeneralizationEditModel" connectionRouterKind="Manual" source="//@children.19" target="//@children.20/@sourceConnections.0" targetEnd="//@children.19/@sourceConnections.0/@children.1" sourceEnd="//@children.19/@sourceConnections.0/@children.0">
+      <children xsi:type="editmodel:AssociationEndEditModel" location="79,0" anchorKind="FixedAtEdge" attachSource="true"/>
+      <children xsi:type="editmodel:AssociationEndEditModel"/>
+    </sourceConnections>
+    <classifierPreferences xsi:type="editmodel:UMLClassDiagramClassifierPreference" showStereotype="true" attributeSorter="Natural" methodSorter="Natural" innerClassSorter="Natural" showPublicAttributes="true" showPackageAttributes="true" showPublicMethods="true" showPackageMethods="true" showPublicInnerClasses="true" showPackageInnerClasses="true"/>
+  </children>
+  <children xsi:type="editmodel:ClassEditModel" location="50,976" size="166,68" id="susanneuweWavelet931" runTimeClassModel="susanneuweWavelet936;susanneuweWavelet932;susanneuweWavelet940">
+    <children xsi:type="editmodel:CompartmentEditModel"/>
+    <children xsi:type="editmodel:CompartmentEditModel" size="129,18">
+      <children xsi:type="editmodel:MethodEditModel" id="susanneuweWavelet940"/>
+    </children>
+    <children xsi:type="editmodel:CompartmentEditModel"/>
+    <sourceConnections xsi:type="editmodel:GeneralizationEditModel" targetConnections="//@children.21/@sourceConnections.0 //@children.24/@sourceConnections.0 //@children.17/@sourceConnections.0 //@children.19/@sourceConnections.0 //@children.22/@sourceConnections.0 //@children.16/@sourceConnections.0" connectionRouterKind="GeneralizationManhattan" source="//@children.20" target="//@children.23" targetEnd="//@children.20/@sourceConnections.0/@children.1" sourceEnd="//@children.20/@sourceConnections.0/@children.0">
+      <children xsi:type="editmodel:AssociationEndEditModel" location="83,0" anchorKind="FixedAtEdge" attachSource="true"/>
+      <children xsi:type="editmodel:AssociationEndEditModel" location="77,176" anchorKind="FixedAtEdge"/>
+    </sourceConnections>
+    <classifierPreferences xsi:type="editmodel:UMLClassDiagramClassifierPreference" showStereotype="true" attributeSorter="Natural" methodSorter="Natural" innerClassSorter="Natural" showPublicAttributes="true" showPackageAttributes="true" showPublicMethods="true" showPackageMethods="true" showPublicInnerClasses="true" showPackageInnerClasses="true"/>
+  </children>
+  <children xsi:type="editmodel:ClassEditModel" location="246,976" size="158,68" id="susanneuweWavelet883" runTimeClassModel="susanneuweWavelet888;susanneuweWavelet884;susanneuweWavelet892">
+    <children xsi:type="editmodel:CompartmentEditModel"/>
+    <children xsi:type="editmodel:CompartmentEditModel" size="124,18">
+      <children xsi:type="editmodel:MethodEditModel" id="susanneuweWavelet892"/>
+    </children>
+    <children xsi:type="editmodel:CompartmentEditModel"/>
+    <sourceConnections xsi:type="editmodel:GeneralizationEditModel" connectionRouterKind="Manual" source="//@children.21" target="//@children.20/@sourceConnections.0" targetEnd="//@children.21/@sourceConnections.0/@children.1" sourceEnd="//@children.21/@sourceConnections.0/@children.0">
+      <children xsi:type="editmodel:AssociationEndEditModel" location="79,0" anchorKind="FixedAtEdge" attachSource="true"/>
+      <children xsi:type="editmodel:AssociationEndEditModel"/>
+    </sourceConnections>
+    <classifierPreferences xsi:type="editmodel:UMLClassDiagramClassifierPreference" showStereotype="true" attributeSorter="Natural" methodSorter="Natural" innerClassSorter="Natural" showPublicAttributes="true" showPackageAttributes="true" showPublicMethods="true" showPackageMethods="true" showPublicInnerClasses="true" showPackageInnerClasses="true"/>
+  </children>
+  <children xsi:type="editmodel:ClassEditModel" location="1014,976" size="171,68" id="susanneuweWavelet907" runTimeClassModel="susanneuweWavelet908;susanneuweWavelet912;susanneuweWavelet916">
+    <children xsi:type="editmodel:CompartmentEditModel"/>
+    <children xsi:type="editmodel:CompartmentEditModel" size="137,18">
+      <children xsi:type="editmodel:MethodEditModel" id="susanneuweWavelet916"/>
+    </children>
+    <children xsi:type="editmodel:CompartmentEditModel"/>
+    <sourceConnections xsi:type="editmodel:GeneralizationEditModel" connectionRouterKind="Manual" source="//@children.22" target="//@children.20/@sourceConnections.0" targetEnd="//@children.22/@sourceConnections.0/@children.1" sourceEnd="//@children.22/@sourceConnections.0/@children.0">
+      <children xsi:type="editmodel:AssociationEndEditModel" location="85,0" anchorKind="FixedAtEdge" attachSource="true"/>
+      <children xsi:type="editmodel:AssociationEndEditModel"/>
+    </sourceConnections>
+    <classifierPreferences xsi:type="editmodel:UMLClassDiagramClassifierPreference" showStereotype="true" attributeSorter="Natural" methodSorter="Natural" innerClassSorter="Natural" showPublicAttributes="true" showPackageAttributes="true" showPublicMethods="true" showPackageMethods="true" showPublicInnerClasses="true" showPackageInnerClasses="true"/>
+  </children>
+  <children xsi:type="editmodel:ClassEditModel" location="634,750" size="155,176" targetConnections="//@children.20/@sourceConnections.0" id="susanneuweWavelet817" runTimeClassModel="susanneuweWavelet821;susanneuweWavelet832;susanneuweWavelet836;susanneuweWavelet858;susanneuweWavelet860;susanneuweWavelet827;susanneuweWavelet818;susanneuweWavelet851;susanneuweWavelet834;susanneuweWavelet830;susanneuweWavelet856;susanneuweWavelet862;susanneuweWavelet824;susanneuweWavelet831;susanneuweWavelet846">
+    <children xsi:type="editmodel:CompartmentEditModel"/>
+    <children xsi:type="editmodel:CompartmentEditModel" size="123,126">
+      <children xsi:type="editmodel:MethodEditModel" id="susanneuweWavelet846"/>
+      <children xsi:type="editmodel:MethodEditModel" id="susanneuweWavelet851"/>
+      <children xsi:type="editmodel:MethodEditModel" id="susanneuweWavelet836"/>
+      <children xsi:type="editmodel:MethodEditModel" id="susanneuweWavelet858"/>
+      <children xsi:type="editmodel:MethodEditModel" id="susanneuweWavelet856"/>
+      <children xsi:type="editmodel:MethodEditModel" id="susanneuweWavelet862"/>
+      <children xsi:type="editmodel:MethodEditModel" id="susanneuweWavelet860"/>
+    </children>
+    <children xsi:type="editmodel:CompartmentEditModel"/>
+    <sourceConnections xsi:type="editmodel:GeneralizationEditModel" targetConnections="//@children.14/@sourceConnections.0 //@children.15/@sourceConnections.0" connectionRouterKind="GeneralizationManhattan" source="//@children.23" target="//@children.18" targetEnd="//@children.23/@sourceConnections.0/@children.1" sourceEnd="//@children.23/@sourceConnections.0/@children.0">
+      <children xsi:type="editmodel:AssociationEndEditModel" location="77,0" anchorKind="FixedAtEdge" attachSource="true"/>
+      <children xsi:type="editmodel:AssociationEndEditModel" location="67,119" anchorKind="FixedAtEdge"/>
+    </sourceConnections>
+    <classifierPreferences xsi:type="editmodel:UMLClassDiagramClassifierPreference" showStereotype="true" attributeSorter="Natural" methodSorter="Natural" innerClassSorter="Natural" showPublicAttributes="true" showPackageAttributes="true" showPublicMethods="true" showPackageMethods="true" showPublicInnerClasses="true" showPackageInnerClasses="true"/>
+  </children>
+  <children xsi:type="editmodel:ClassEditModel" location="434,976" size="166,68" id="susanneuweWavelet943" runTimeClassModel="susanneuweWavelet952;susanneuweWavelet944;susanneuweWavelet948">
+    <children xsi:type="editmodel:CompartmentEditModel"/>
+    <children xsi:type="editmodel:CompartmentEditModel" size="129,18">
+      <children xsi:type="editmodel:MethodEditModel" id="susanneuweWavelet952"/>
+    </children>
+    <children xsi:type="editmodel:CompartmentEditModel"/>
+    <sourceConnections xsi:type="editmodel:GeneralizationEditModel" connectionRouterKind="Manual" source="//@children.24" target="//@children.20/@sourceConnections.0" targetEnd="//@children.24/@sourceConnections.0/@children.1" sourceEnd="//@children.24/@sourceConnections.0/@children.0">
+      <children xsi:type="editmodel:AssociationEndEditModel" location="83,0" anchorKind="FixedAtEdge" attachSource="true"/>
+      <children xsi:type="editmodel:AssociationEndEditModel"/>
+    </sourceConnections>
+    <classifierPreferences xsi:type="editmodel:UMLClassDiagramClassifierPreference" showStereotype="true" attributeSorter="Natural" methodSorter="Natural" innerClassSorter="Natural" showPublicAttributes="true" showPackageAttributes="true" showPublicMethods="true" showPackageMethods="true" showPublicInnerClasses="true" showPackageInnerClasses="true"/>
+  </children>
+  <classDiagramPreferences xsi:type="editmodel:UMLClassDiagramPreference" attributeSorter="Natural" methodSorter="Natural" innerClassSorter="Natural" showPublicAttributes="true" showPackageAttributes="true" showPublicMethods="true" showPackageMethods="true" showPublicInnerClasses="true" showPackageInnerClasses="true" showInterfaceStereotype="true" showClassStereotype="true" showPackageStereotype="true"/>
+</editmodel:ClassDiagramEditModel>

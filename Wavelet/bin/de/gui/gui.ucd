@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<editmodel:ClassDiagramEditModel xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:editmodel="editmodel.xmi" size="833,1302" id="susanneuweWavelet1265" metadata="nsuml-1.4" initialized="true" showWireOptions="1" scrolledY="445">
+  <children xsi:type="editmodel:ClassEditModel" location="50,1214" size="138,68" id="susanneuweWavelet1266" runTimeClassModel="susanneuweWavelet1275;susanneuweWavelet1270;susanneuweWavelet1267;susanneuweWavelet1273;susanneuweWavelet1285">
+    <children xsi:type="editmodel:CompartmentEditModel"/>
+    <children xsi:type="editmodel:CompartmentEditModel" size="104,18">
+      <children xsi:type="editmodel:MethodEditModel" id="susanneuweWavelet1275"/>
+    </children>
+    <children xsi:type="editmodel:CompartmentEditModel"/>
+    <classifierPreferences xsi:type="editmodel:UMLClassDiagramClassifierPreference" showStereotype="true" attributeSorter="Natural" methodSorter="Natural" innerClassSorter="Natural" showPublicAttributes="true" showPackageAttributes="true" showPublicMethods="true" showPackageMethods="true" showPublicInnerClasses="true" showPackageInnerClasses="true"/>
+  </children>
+  <children xsi:type="editmodel:ClassEditModel" location="403,1214" size="102,68" id="susanneuweWavelet1311" runTimeClassModel="susanneuweWavelet1312;susanneuweWavelet1315;susanneuweWavelet1314">
+    <children xsi:type="editmodel:CompartmentEditModel"/>
+    <children xsi:type="editmodel:CompartmentEditModel" size="75,18">
+      <children xsi:type="editmodel:MethodEditModel" id="susanneuweWavelet1315"/>
+    </children>
+    <children xsi:type="editmodel:CompartmentEditModel"/>
+    <classifierPreferences xsi:type="editmodel:UMLClassDiagramClassifierPreference" showStereotype="true" attributeSorter="Natural" methodSorter="Natural" innerClassSorter="Natural" showPublicAttributes="true" showPackageAttributes="true" showPublicMethods="true" showPackageMethods="true" showPublicInnerClasses="true" showPackageInnerClasses="true"/>
+  </children>
+  <children xsi:type="editmodel:ClassEditModel" location="50,50" size="285,716" id="susanneuweWavelet1342" runTimeClassModel="susanneuweWavelet1354;susanneuweWavelet1343;susanneuweWavelet1390;susanneuweWavelet1408;susanneuweWavelet1357;susanneuweWavelet1380;susanneuweWavelet1365;susanneuweWavelet1376;susanneuweWavelet1360;susanneuweWavelet1416;susanneuweWavelet1370;susanneuweWavelet1366;susanneuweWavelet1378;susanneuweWavelet1400;susanneuweWavelet1388;susanneuweWavelet1406;susanneuweWavelet1392;susanneuweWavelet1363;susanneuweWavelet1414;susanneuweWavelet1382;susanneuweWavelet1368;susanneuweWavelet1398;susanneuweWavelet1361;susanneuweWavelet1386;susanneuweWavelet1372;susanneuweWavelet1404;susanneuweWavelet1358;susanneuweWavelet1346;susanneuweWavelet1350;susanneuweWavelet1362;susanneuweWavelet1412;susanneuweWavelet1355;susanneuweWavelet1396;susanneuweWavelet1367;susanneuweWavelet1402;susanneuweWavelet1374;susanneuweWavelet1384;susanneuweWavelet1364;susanneuweWavelet1410;susanneuweWavelet1359;susanneuweWavelet1345;susanneuweWavelet1394;susanneuweWavelet1418">
+    <children xsi:type="editmodel:CompartmentEditModel" size="262,648">
+      <children xsi:type="editmodel:AttributeEditModel" id="susanneuweWavelet1368"/>
+      <children xsi:type="editmodel:AttributeEditModel" id="susanneuweWavelet1372"/>
+      <children xsi:type="editmodel:AttributeEditModel" id="susanneuweWavelet1390"/>
+      <children xsi:type="editmodel:AttributeEditModel" id="susanneuweWavelet1388"/>
+      <children xsi:type="editmodel:AttributeEditModel" id="susanneuweWavelet1370"/>
+      <children xsi:type="editmodel:AttributeEditModel" id="susanneuweWavelet1374"/>
+      <children xsi:type="editmodel:AttributeEditModel" id="susanneuweWavelet1378"/>
+      <children xsi:type="editmodel:AttributeEditModel" id="susanneuweWavelet1382"/>
+      <children xsi:type="editmodel:AttributeEditModel" id="susanneuweWavelet1384"/>
+      <children xsi:type="editmodel:AttributeEditModel" id="susanneuweWavelet1386"/>
+      <children xsi:type="editmodel:AttributeEditModel" id="susanneuweWavelet1376"/>
+      <children xsi:type="editmodel:AttributeEditModel" id="susanneuweWavelet1380"/>
+      <children xsi:type="editmodel:AttributeEditModel" id="susanneuweWavelet1392"/>
+      <children xsi:type="editmodel:AttributeEditModel" id="susanneuweWavelet1396"/>
+      <children xsi:type="editmodel:AttributeEditModel" id="susanneuweWavelet1414"/>
+      <children xsi:type="editmodel:AttributeEditModel" id="susanneuweWavelet1412"/>
+      <children xsi:type="editmodel:AttributeEditModel" id="susanneuweWavelet1394"/>
+      <children xsi:type="editmodel:AttributeEditModel" id="susanneuweWavelet1398"/>
+      <children xsi:type="editmodel:AttributeEditModel" id="susanneuweWavelet1402"/>
+      <children xsi:type="editmodel:AttributeEditModel" id="susanneuweWavelet1406"/>
+      <children xsi:type="editmodel:AttributeEditModel" id="susanneuweWavelet1408"/>
+      <children xsi:type="editmodel:AttributeEditModel" id="susanneuweWavelet1410"/>
+      <children xsi:type="editmodel:AttributeEditModel" id="susanneuweWavelet1400"/>
+      <children xsi:type="editmodel:AttributeEditModel" id="susanneuweWavelet1404"/>
+      <children xsi:type="editmodel:AttributeEditModel" id="susanneuweWavelet1365"/>
+      <children xsi:type="editmodel:AttributeEditModel" id="susanneuweWavelet1367"/>
+      <children xsi:type="editmodel:AttributeEditModel" id="susanneuweWavelet1366"/>
+      <children xsi:type="editmodel:AttributeEditModel" id="susanneuweWavelet1364"/>
+      <children xsi:type="editmodel:AttributeEditModel" id="susanneuweWavelet1361"/>
+      <children xsi:type="editmodel:AttributeEditModel" id="susanneuweWavelet1362"/>
+      <children xsi:type="editmodel:AttributeEditModel" id="susanneuweWavelet1363"/>
+      <children xsi:type="editmodel:AttributeEditModel" id="susanneuweWavelet1358"/>
+      <children xsi:type="editmodel:AttributeEditModel" id="susanneuweWavelet1355"/>
+      <children xsi:type="editmodel:AttributeEditModel" id="susanneuweWavelet1360"/>
+      <children xsi:type="editmodel:AttributeEditModel" id="susanneuweWavelet1357"/>
+      <children xsi:type="editmodel:AttributeEditModel" id="susanneuweWavelet1359"/>
+    </children>
+    <children xsi:type="editmodel:CompartmentEditModel" size="44,18">
+      <children xsi:type="editmodel:MethodEditModel" id="susanneuweWavelet1416"/>
+    </children>
+    <children xsi:type="editmodel:CompartmentEditModel"/>
+    <classifierPreferences xsi:type="editmodel:UMLClassDiagramClassifierPreference" showStereotype="true" attributeSorter="Natural" methodSorter="Natural" innerClassSorter="Natural" showPublicAttributes="true" showPackageAttributes="true" showPublicMethods="true" showPackageMethods="true" showPublicInnerClasses="true" showPackageInnerClasses="true"/>
+  </children>
+  <children xsi:type="editmodel:ClassEditModel" location="50,816" size="235,194" id="susanneuweWavelet1304" runTimeClassModel="susanneuweWavelet1433;susanneuweWavelet1440;susanneuweWavelet1438;susanneuweWavelet1451;susanneuweWavelet1444;susanneuweWavelet1455;susanneuweWavelet1459;susanneuweWavelet1467;susanneuweWavelet1469;susanneuweWavelet1463;susanneuweWavelet1441;susanneuweWavelet1445;susanneuweWavelet1457;susanneuweWavelet1446;susanneuweWavelet1436;susanneuweWavelet1453;susanneuweWavelet1442;susanneuweWavelet1435;susanneuweWavelet1443;susanneuweWavelet1439;susanneuweWavelet1461">
+    <children xsi:type="editmodel:CompartmentEditModel"/>
+    <children xsi:type="editmodel:CompartmentEditModel" size="181,144">
+      <children xsi:type="editmodel:MethodEditModel" id="susanneuweWavelet1446"/>
+      <children xsi:type="editmodel:MethodEditModel" id="susanneuweWavelet1463"/>
+      <children xsi:type="editmodel:MethodEditModel" id="susanneuweWavelet1459"/>
+      <children xsi:type="editmodel:MethodEditModel" id="susanneuweWavelet1455"/>
+      <children xsi:type="editmodel:MethodEditModel" id="susanneuweWavelet1451"/>
+      <children xsi:type="editmodel:MethodEditModel" id="susanneuweWavelet1461"/>
+      <children xsi:type="editmodel:MethodEditModel" id="susanneuweWavelet1457"/>
+      <children xsi:type="editmodel:MethodEditModel" id="susanneuweWavelet1453"/>
+    </children>
+    <children xsi:type="editmodel:CompartmentEditModel"/>
+    <classifierPreferences xsi:type="editmodel:UMLClassDiagramClassifierPreference" showStereotype="true" attributeSorter="Natural" methodSorter="Natural" innerClassSorter="Natural" showPublicAttributes="true" showPackageAttributes="true" showPublicMethods="true" showPackageMethods="true" showPublicInnerClasses="true" showPackageInnerClasses="true"/>
+  </children>
+  <children xsi:type="editmodel:ClassEditModel" location="545,816" size="193,86" id="susanneuweWavelet1274" runTimeClassModel="susanneuweWavelet1525;susanneuweWavelet1518;susanneuweWavelet1522;susanneuweWavelet1519;susanneuweWavelet1521">
+    <children xsi:type="editmodel:CompartmentEditModel"/>
+    <children xsi:type="editmodel:CompartmentEditModel" size="146,36">
+      <children xsi:type="editmodel:MethodEditModel" id="susanneuweWavelet1522"/>
+      <children xsi:type="editmodel:MethodEditModel" id="susanneuweWavelet1525"/>
+    </children>
+    <children xsi:type="editmodel:CompartmentEditModel"/>
+    <classifierPreferences xsi:type="editmodel:UMLClassDiagramClassifierPreference" showStereotype="true" attributeSorter="Natural" methodSorter="Natural" innerClassSorter="Natural" showPublicAttributes="true" showPackageAttributes="true" showPublicMethods="true" showPackageMethods="true" showPublicInnerClasses="true" showPackageInnerClasses="true"/>
+  </children>
+  <children xsi:type="editmodel:ClassEditModel" location="335,816" size="160,158" id="susanneuweWavelet1543" runTimeClassModel="susanneuweWavelet1561;susanneuweWavelet1565;susanneuweWavelet1563;susanneuweWavelet1544;susanneuweWavelet1546;susanneuweWavelet1555;susanneuweWavelet1550;susanneuweWavelet1567;susanneuweWavelet1549;susanneuweWavelet1547;susanneuweWavelet1558;susanneuweWavelet1552">
+    <children xsi:type="editmodel:CompartmentEditModel"/>
+    <children xsi:type="editmodel:CompartmentEditModel" size="121,108">
+      <children xsi:type="editmodel:MethodEditModel" id="susanneuweWavelet1552"/>
+      <children xsi:type="editmodel:MethodEditModel" id="susanneuweWavelet1550"/>
+      <children xsi:type="editmodel:MethodEditModel" id="susanneuweWavelet1555"/>
+      <children xsi:type="editmodel:MethodEditModel" id="susanneuweWavelet1561"/>
+      <children xsi:type="editmodel:MethodEditModel" id="susanneuweWavelet1567"/>
+      <children xsi:type="editmodel:MethodEditModel" id="susanneuweWavelet1558"/>
+    </children>
+    <children xsi:type="editmodel:CompartmentEditModel"/>
+    <classifierPreferences xsi:type="editmodel:UMLClassDiagramClassifierPreference" showStereotype="true" attributeSorter="Natural" methodSorter="Natural" innerClassSorter="Natural" showPublicAttributes="true" showPackageAttributes="true" showPublicMethods="true" showPackageMethods="true" showPublicInnerClasses="true" showPackageInnerClasses="true"/>
+  </children>
+  <children xsi:type="editmodel:ClassEditModel" location="50,1060" size="110,104" id="susanneuweWavelet1313" runTimeClassModel="susanneuweWavelet1587;susanneuweWavelet1583;susanneuweWavelet1584;susanneuweWavelet1590">
+    <children xsi:type="editmodel:CompartmentEditModel"/>
+    <children xsi:type="editmodel:CompartmentEditModel" size="81,54">
+      <children xsi:type="editmodel:MethodEditModel" id="susanneuweWavelet1584"/>
+      <children xsi:type="editmodel:MethodEditModel" id="susanneuweWavelet1587"/>
+      <children xsi:type="editmodel:MethodEditModel" id="susanneuweWavelet1590"/>
+    </children>
+    <children xsi:type="editmodel:CompartmentEditModel"/>
+    <classifierPreferences xsi:type="editmodel:UMLClassDiagramClassifierPreference" showStereotype="true" attributeSorter="Natural" methodSorter="Natural" innerClassSorter="Natural" showPublicAttributes="true" showPackageAttributes="true" showPublicMethods="true" showPackageMethods="true" showPublicInnerClasses="true" showPackageInnerClasses="true"/>
+  </children>
+  <children xsi:type="editmodel:ClassEditModel" location="364,1060" size="147,68" id="susanneuweWavelet1326" runTimeClassModel="susanneuweWavelet1600;susanneuweWavelet1601">
+    <children xsi:type="editmodel:CompartmentEditModel"/>
+    <children xsi:type="editmodel:CompartmentEditModel" size="108,18">
+      <children xsi:type="editmodel:MethodEditModel" id="susanneuweWavelet1601"/>
+    </children>
+    <children xsi:type="editmodel:CompartmentEditModel"/>
+    <classifierPreferences xsi:type="editmodel:UMLClassDiagramClassifierPreference" showStereotype="true" attributeSorter="Natural" methodSorter="Natural" innerClassSorter="Natural" showPublicAttributes="true" showPackageAttributes="true" showPublicMethods="true" showPackageMethods="true" showPublicInnerClasses="true" showPackageInnerClasses="true"/>
+  </children>
+  <children xsi:type="editmodel:ClassEditModel" location="210,1060" size="104,104" id="susanneuweWavelet1620" runTimeClassModel="susanneuweWavelet1623;susanneuweWavelet1625;susanneuweWavelet1627;susanneuweWavelet1621;susanneuweWavelet1629">
+    <children xsi:type="editmodel:CompartmentEditModel"/>
+    <children xsi:type="editmodel:CompartmentEditModel" size="59,54">
+      <children xsi:type="editmodel:MethodEditModel" id="susanneuweWavelet1627"/>
+      <children xsi:type="editmodel:MethodEditModel" id="susanneuweWavelet1629"/>
+      <children xsi:type="editmodel:MethodEditModel" id="susanneuweWavelet1625"/>
+    </children>
+    <children xsi:type="editmodel:CompartmentEditModel"/>
+    <classifierPreferences xsi:type="editmodel:UMLClassDiagramClassifierPreference" showStereotype="true" attributeSorter="Natural" methodSorter="Natural" innerClassSorter="Natural" showPublicAttributes="true" showPackageAttributes="true" showPublicMethods="true" showPackageMethods="true" showPublicInnerClasses="true" showPackageInnerClasses="true"/>
+  </children>
+  <children xsi:type="editmodel:ClassEditModel" location="561,1060" size="139,68" id="susanneuweWavelet1640" runTimeClassModel="susanneuweWavelet1655;susanneuweWavelet1641">
+    <children xsi:type="editmodel:CompartmentEditModel"/>
+    <children xsi:type="editmodel:CompartmentEditModel" size="107,18">
+      <children xsi:type="editmodel:MethodEditModel" id="susanneuweWavelet1641"/>
+    </children>
+    <children xsi:type="editmodel:CompartmentEditModel"/>
+    <classifierPreferences xsi:type="editmodel:UMLClassDiagramClassifierPreference" showStereotype="true" attributeSorter="Natural" methodSorter="Natural" innerClassSorter="Natural" showPublicAttributes="true" showPackageAttributes="true" showPublicMethods="true" showPackageMethods="true" showPublicInnerClasses="true" showPackageInnerClasses="true"/>
+  </children>
+  <children xsi:type="editmodel:ClassEditModel" location="238,1214" size="115,68" id="susanneuweWavelet1680" runTimeClassModel="susanneuweWavelet1681">
+    <children xsi:type="editmodel:CompartmentEditModel"/>
+    <children xsi:type="editmodel:CompartmentEditModel" size="88,18">
+      <children xsi:type="editmodel:MethodEditModel" id="susanneuweWavelet1681"/>
+    </children>
+    <children xsi:type="editmodel:CompartmentEditModel"/>
+    <classifierPreferences xsi:type="editmodel:UMLClassDiagramClassifierPreference" showStereotype="true" attributeSorter="Natural" methodSorter="Natural" innerClassSorter="Natural" showPublicAttributes="true" showPackageAttributes="true" showPublicMethods="true" showPackageMethods="true" showPublicInnerClasses="true" showPackageInnerClasses="true"/>
+  </children>
+  <children xsi:type="editmodel:ClassEditModel" location="385,50" size="198,266" id="susanneuweWavelet1695" runTimeClassModel="susanneuweWavelet1711;susanneuweWavelet1707;susanneuweWavelet1700;susanneuweWavelet1698;susanneuweWavelet1737;susanneuweWavelet1722;susanneuweWavelet1705;susanneuweWavelet1731;susanneuweWavelet1734;susanneuweWavelet1709;susanneuweWavelet1745;susanneuweWavelet1727;susanneuweWavelet1742;susanneuweWavelet1714;susanneuweWavelet1718;susanneuweWavelet1703;susanneuweWavelet1696;susanneuweWavelet1739">
+    <children xsi:type="editmodel:CompartmentEditModel"/>
+    <children xsi:type="editmodel:CompartmentEditModel" size="175,216">
+      <children xsi:type="editmodel:MethodEditModel" id="susanneuweWavelet1718"/>
+      <children xsi:type="editmodel:MethodEditModel" id="susanneuweWavelet1709"/>
+      <children xsi:type="editmodel:MethodEditModel" id="susanneuweWavelet1711"/>
+      <children xsi:type="editmodel:MethodEditModel" id="susanneuweWavelet1714"/>
+      <children xsi:type="editmodel:MethodEditModel" id="susanneuweWavelet1722"/>
+      <children xsi:type="editmodel:MethodEditModel" id="susanneuweWavelet1727"/>
+      <children xsi:type="editmodel:MethodEditModel" id="susanneuweWavelet1734"/>
+      <children xsi:type="editmodel:MethodEditModel" id="susanneuweWavelet1737"/>
+      <children xsi:type="editmodel:MethodEditModel" id="susanneuweWavelet1731"/>
+      <children xsi:type="editmodel:MethodEditModel" id="susanneuweWavelet1745"/>
+      <children xsi:type="editmodel:MethodEditModel" id="susanneuweWavelet1739"/>
+      <children xsi:type="editmodel:MethodEditModel" id="susanneuweWavelet1742"/>
+    </children>
+    <children xsi:type="editmodel:CompartmentEditModel"/>
+    <classifierPreferences xsi:type="editmodel:UMLClassDiagramClassifierPreference" showStereotype="true" attributeSorter="Natural" methodSorter="Natural" innerClassSorter="Natural" showPublicAttributes="true" showPackageAttributes="true" showPublicMethods="true" showPackageMethods="true" showPublicInnerClasses="true" showPackageInnerClasses="true"/>
+  </children>
+  <classDiagramPreferences xsi:type="editmodel:UMLClassDiagramPreference" attributeSorter="Natural" methodSorter="Natural" innerClassSorter="Natural" showPublicAttributes="true" showPackageAttributes="true" showPublicMethods="true" showPackageMethods="true" showPublicInnerClasses="true" showPackageInnerClasses="true" showInterfaceStereotype="true" showClassStereotype="true" showPackageStereotype="true"/>
+</editmodel:ClassDiagramEditModel>

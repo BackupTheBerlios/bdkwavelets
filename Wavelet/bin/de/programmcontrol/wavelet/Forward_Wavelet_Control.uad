@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<editmodel:ActivityDiagramEditModel xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:editmodel="editmodel.xmi" id="MatthiasuweJ200017895" metadata="nsuml-1.4" initialized="true">
+  <children xsi:type="editmodel:StartEditModel" location="110,25" size="20,20">
+    <sourceConnections xsi:type="editmodel:TransitionEditModel" connectionRouterKind="Manual" source="//@children.0" target="//@children.1" targetEnd="//@children.0/@sourceConnections.0/@children.1" label="//@children.0/@sourceConnections.0/@children.2" sourceEnd="//@children.0/@sourceConnections.0/@children.0" eventName="" eventArgument="" condition="" action="">
+      <children xsi:type="editmodel:StateEndEditModel" location="8,19" attachSource="true"/>
+      <children xsi:type="editmodel:StateEndEditModel" location="133,-1"/>
+      <children xsi:type="editmodel:WireLabelEditModel" size="1,14" fontInfo="Arial-8-0" anchorKind="MiddlePart"/>
+    </sourceConnections>
+  </children>
+  <children xsi:type="editmodel:ActivityEditModel" location="21,90" size="199,24" targetConnections="//@children.0/@sourceConnections.0 //@children.2/@sourceConnections.0" itemName="Komponente laden">
+    <sourceConnections xsi:type="editmodel:TransitionEditModel" connectionRouterKind="Manual" source="//@children.1" target="//@children.7" targetEnd="//@children.1/@sourceConnections.0/@children.1" label="//@children.1/@sourceConnections.0/@children.2" sourceEnd="//@children.1/@sourceConnections.0/@children.0" eventName="" eventArgument="" condition="Keine Komponente mehr vorhanden" action="">
+      <children xsi:type="editmodel:StateEndEditModel" location="197,20" attachSource="true"/>
+      <children xsi:type="editmodel:StateEndEditModel" location="-1,30"/>
+      <children xsi:type="editmodel:WireLabelEditModel" size="179,14" fontInfo="Arial-8-0" anchorKind="MiddlePart"/>
+    </sourceConnections>
+    <sourceConnections xsi:type="editmodel:TransitionEditModel" connectionRouterKind="Manual" source="//@children.1" target="//@children.2" targetEnd="//@children.1/@sourceConnections.1/@children.1" label="//@children.1/@sourceConnections.1/@children.2" sourceEnd="//@children.1/@sourceConnections.1/@children.0" eventName="" eventArgument="" condition="Neue Komponente geladen" action="">
+      <children xsi:type="editmodel:StateEndEditModel" location="0,20" anchorKind="FixedAtEdge" attachSource="true"/>
+      <children xsi:type="editmodel:StateEndEditModel" location="101,12" anchorKind="FixedAtEdge"/>
+      <children xsi:type="editmodel:WireLabelEditModel" location="0,154" size="136,14" fontInfo="Arial-8-0" automaticRelocationAllowed="false" locationOnWireFromSource="26.2588689571434" distanceFromWire="16.925477868927974" anchorKind="MiddlePart"/>
+    </sourceConnections>
+  </children>
+  <children xsi:type="editmodel:ActivityEditModel" location="14,200" size="209,24" targetConnections="//@children.1/@sourceConnections.1 //@children.3/@sourceConnections.1" itemName="Kachel laden">
+    <sourceConnections xsi:type="editmodel:TransitionEditModel" connectionRouterKind="Manual" source="//@children.2" target="//@children.1" targetEnd="//@children.2/@sourceConnections.0/@children.1" label="//@children.2/@sourceConnections.0/@children.2" sourceEnd="//@children.2/@sourceConnections.0/@children.0" eventName="" eventArgument="" condition="keine Kachel mehr vorhanden" action="">
+      <children xsi:type="editmodel:StateEndEditModel" location="206,2" anchorKind="FixedAtEdge" attachSource="true"/>
+      <children xsi:type="editmodel:StateEndEditModel" location="197,18" anchorKind="FixedAtEdge"/>
+      <children xsi:type="editmodel:WireLabelEditModel" location="146,148" size="150,14" fontInfo="Arial-8-0" automaticRelocationAllowed="false" locationOnWireFromSource="1.0" distanceFromWire="-35.0" anchorKind="MiddlePart"/>
+    </sourceConnections>
+    <sourceConnections xsi:type="editmodel:TransitionEditModel" connectionRouterKind="Manual" source="//@children.2" target="//@children.3" targetEnd="//@children.2/@sourceConnections.1/@children.1" label="//@children.2/@sourceConnections.1/@children.2" sourceEnd="//@children.2/@sourceConnections.1/@children.0" eventName="" eventArgument="" condition="Kachel geladen" action="">
+      <children xsi:type="editmodel:StateEndEditModel" location="0,17" anchorKind="FixedAtEdge" attachSource="true"/>
+      <children xsi:type="editmodel:StateEndEditModel" location="0,2" anchorKind="FixedAtEdge"/>
+      <children xsi:type="editmodel:WireLabelEditModel" size="81,14" fontInfo="Arial-8-0" anchorKind="MiddlePart"/>
+    </sourceConnections>
+  </children>
+  <children xsi:type="editmodel:ActivityEditModel" location="14,294" size="207,24" targetConnections="//@children.2/@sourceConnections.1 //@children.6/@sourceConnections.0" itemName="Matrix laden">
+    <sourceConnections xsi:type="editmodel:TransitionEditModel" connectionRouterKind="Manual" source="//@children.3" target="//@children.4" targetEnd="//@children.3/@sourceConnections.0/@children.1" label="//@children.3/@sourceConnections.0/@children.2" sourceEnd="//@children.3/@sourceConnections.0/@children.0" eventName="" eventArgument="" condition="Matrix geladen" action="">
+      <children xsi:type="editmodel:StateEndEditModel" location="74,24" attachSource="true"/>
+      <children xsi:type="editmodel:StateEndEditModel" location="76,-1"/>
+      <children xsi:type="editmodel:WireLabelEditModel" size="77,14" fontInfo="Arial-8-0" anchorKind="MiddlePart"/>
+    </sourceConnections>
+    <sourceConnections xsi:type="editmodel:TransitionEditModel" connectionRouterKind="Manual" source="//@children.3" target="//@children.2" targetEnd="//@children.3/@sourceConnections.1/@children.1" label="//@children.3/@sourceConnections.1/@children.2" sourceEnd="//@children.3/@sourceConnections.1/@children.0" eventName="" eventArgument="" condition="keine Matrix vorhand" action="">
+      <children xsi:type="editmodel:StateEndEditModel" location="207,7" anchorKind="FixedAtEdge" attachSource="true"/>
+      <children xsi:type="editmodel:StateEndEditModel" location="208,17" anchorKind="FixedAtEdge"/>
+      <children xsi:type="editmodel:WireLabelEditModel" size="107,14" fontInfo="Arial-8-0" anchorKind="MiddlePart"/>
+    </sourceConnections>
+  </children>
+  <children xsi:type="editmodel:ActivityEditModel" location="64,449" size="114,24" targetConnections="//@children.3/@sourceConnections.0" itemName="Zeilen bearbeiten">
+    <sourceConnections xsi:type="editmodel:TransitionEditModel" connectionRouterKind="Manual" source="//@children.4" target="//@children.5" targetEnd="//@children.4/@sourceConnections.0/@children.1" label="//@children.4/@sourceConnections.0/@children.2" sourceEnd="//@children.4/@sourceConnections.0/@children.0" eventName="" eventArgument="" condition="Alle Zeilen der aktuellen Matrix abgearbeitet" action="">
+      <children xsi:type="editmodel:StateEndEditModel" location="114,6" anchorKind="FixedAtEdge" attachSource="true"/>
+      <children xsi:type="editmodel:StateEndEditModel" location="81,24" anchorKind="FixedAtEdge"/>
+      <children xsi:type="editmodel:WireLabelEditModel" location="211,431" size="216,14" fontInfo="Arial-8-0" automaticRelocationAllowed="false" locationOnWireFromSource="6.217156255624443" distanceFromWire="24.94688293340773" anchorKind="MiddlePart"/>
+    </sourceConnections>
+  </children>
+  <children xsi:type="editmodel:ActivityEditModel" location="379,398" size="139,24" targetConnections="//@children.4/@sourceConnections.0" itemName="Spalte links bearbeiten">
+    <sourceConnections xsi:type="editmodel:TransitionEditModel" connectionRouterKind="Manual" source="//@children.5" target="//@children.6" targetEnd="//@children.5/@sourceConnections.0/@children.1" label="//@children.5/@sourceConnections.0/@children.2" sourceEnd="//@children.5/@sourceConnections.0/@children.0" eventName="" eventArgument="" condition="Linke Spalten abgearbeitet" action="">
+      <children xsi:type="editmodel:StateEndEditModel" location="86,-1" attachSource="true"/>
+      <children xsi:type="editmodel:StateEndEditModel" location="56,24"/>
+      <children xsi:type="editmodel:WireLabelEditModel" location="382,352" size="134,14" fontInfo="Arial-8-0" automaticRelocationAllowed="false" locationOnWireFromSource="10.364832742763731" distanceFromWire="-51.74524366755396" anchorKind="MiddlePart"/>
+    </sourceConnections>
+  </children>
+  <children xsi:type="editmodel:ActivityEditModel" location="376,297" size="149,24" targetConnections="//@children.5/@sourceConnections.0" itemName="Spalte rechts bearbeiten">
+    <sourceConnections xsi:type="editmodel:TransitionEditModel" connectionRouterKind="Manual" source="//@children.6" target="//@children.3" targetEnd="//@children.6/@sourceConnections.0/@children.1" label="//@children.6/@sourceConnections.0/@children.2" sourceEnd="//@children.6/@sourceConnections.0/@children.0" eventName="" eventArgument="" condition="Rechte Spalten abgearbeitet" action="">
+      <children xsi:type="editmodel:StateEndEditModel" location="-1,1" attachSource="true"/>
+      <children xsi:type="editmodel:StateEndEditModel" location="207,23"/>
+      <children xsi:type="editmodel:WireLabelEditModel" size="143,14" fontInfo="Arial-8-0" anchorKind="MiddlePart"/>
+    </sourceConnections>
+  </children>
+  <children xsi:type="editmodel:StateEditModel" location="418,69" size="54,69" targetConnections="//@children.1/@sourceConnections.0" itemName="Fertig" content="">
+    <children xsi:type="editmodel:CompartmentEditModel"/>
+    <sourceConnections xsi:type="editmodel:TransitionEditModel" connectionRouterKind="Manual" source="//@children.7" target="//@children.8" targetEnd="//@children.7/@sourceConnections.0/@children.1" label="//@children.7/@sourceConnections.0/@children.2" sourceEnd="//@children.7/@sourceConnections.0/@children.0" eventName="" eventArgument="" condition="" action="">
+      <children xsi:type="editmodel:StateEndEditModel" location="-1,17" attachSource="true"/>
+      <children xsi:type="editmodel:StateEndEditModel" location="19,15"/>
+      <children xsi:type="editmodel:WireLabelEditModel" size="1,14" fontInfo="Arial-8-0" anchorKind="MiddlePart"/>
+    </sourceConnections>
+  </children>
+  <children xsi:type="editmodel:EndEditModel" location="436,29" size="21,21" targetConnections="//@children.7/@sourceConnections.0"/>
+</editmodel:ActivityDiagramEditModel>

@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<editmodel:ActivityDiagramEditModel xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:editmodel="editmodel.xmi" size="818,481" id="MatthiasuweJ200017897" metadata="nsuml-1.4" initialized="true">
+  <children xsi:type="editmodel:StartEditModel" location="142,31" size="20,20">
+    <sourceConnections xsi:type="editmodel:TransitionEditModel" connectionRouterKind="Manual" source="//@children.0" target="//@children.1" targetEnd="//@children.0/@sourceConnections.0/@children.1" label="//@children.0/@sourceConnections.0/@children.2" sourceEnd="//@children.0/@sourceConnections.0/@children.0" eventName="" eventArgument="" condition="" action="">
+      <children xsi:type="editmodel:StateEndEditModel" location="6,19" attachSource="true"/>
+      <children xsi:type="editmodel:StateEndEditModel" location="64,-2"/>
+      <children xsi:type="editmodel:WireLabelEditModel" size="1,15" fontInfo="Arial-8-0" anchorKind="MiddlePart"/>
+    </sourceConnections>
+  </children>
+  <children xsi:type="editmodel:ActivityEditModel" location="116,60" size="77,25" targetConnections="//@children.0/@sourceConnections.0" itemName="Bild laden">
+    <sourceConnections xsi:type="editmodel:TransitionEditModel" connectionRouterKind="Manual" source="//@children.1" target="//@children.2" targetEnd="//@children.1/@sourceConnections.0/@children.1" label="//@children.1/@sourceConnections.0/@children.2" sourceEnd="//@children.1/@sourceConnections.0/@children.0" eventName="" eventArgument="" condition="" action="">
+      <children xsi:type="editmodel:StateEndEditModel" location="51,24" attachSource="true"/>
+      <children xsi:type="editmodel:StateEndEditModel" location="105,-2"/>
+      <children xsi:type="editmodel:WireLabelEditModel" size="1,15" fontInfo="Arial-8-0" anchorKind="MiddlePart"/>
+    </sourceConnections>
+  </children>
+  <children xsi:type="editmodel:ActivityEditModel" location="38,102" size="239,25" targetConnections="//@children.1/@sourceConnections.0" itemName="Farben transformieren von RGB zu YCbCr">
+    <sourceConnections xsi:type="editmodel:TransitionEditModel" connectionRouterKind="Manual" source="//@children.2" target="//@children.3" targetEnd="//@children.2/@sourceConnections.0/@children.1" label="//@children.2/@sourceConnections.0/@children.2" sourceEnd="//@children.2/@sourceConnections.0/@children.0" eventName="" eventArgument="" condition="" action="">
+      <children xsi:type="editmodel:StateEndEditModel" location="123,24" attachSource="true"/>
+      <children xsi:type="editmodel:StateEndEditModel" location="57,-2"/>
+      <children xsi:type="editmodel:WireLabelEditModel" size="1,15" fontInfo="Arial-8-0" anchorKind="MiddlePart"/>
+    </sourceConnections>
+  </children>
+  <children xsi:type="editmodel:ActivityEditModel" location="98,159" size="123,25" targetConnections="//@children.2/@sourceConnections.0" itemName="Bild in Kachel teilen">
+    <sourceConnections xsi:type="editmodel:TransitionEditModel" connectionRouterKind="Manual" source="//@children.3" target="//@children.4" targetEnd="//@children.3/@sourceConnections.0/@children.1" label="//@children.3/@sourceConnections.0/@children.2" sourceEnd="//@children.3/@sourceConnections.0/@children.0" eventName="" eventArgument="" condition="" action="">
+      <children xsi:type="editmodel:StateEndEditModel" location="64,24" attachSource="true"/>
+      <children xsi:type="editmodel:StateEndEditModel" location="95,-2"/>
+      <children xsi:type="editmodel:WireLabelEditModel" size="1,15" fontInfo="Arial-8-0" anchorKind="MiddlePart"/>
+    </sourceConnections>
+  </children>
+  <children xsi:type="editmodel:ActivityEditModel" location="61,207" size="197,25" targetConnections="//@children.3/@sourceConnections.0" itemName="Vorwärts Wavelet-Transformation">
+    <sourceConnections xsi:type="editmodel:TransitionEditModel" connectionRouterKind="Manual" source="//@children.4" target="//@children.5" targetEnd="//@children.4/@sourceConnections.0/@children.1" label="//@children.4/@sourceConnections.0/@children.2" sourceEnd="//@children.4/@sourceConnections.0/@children.0" eventName="" eventArgument="" condition="" action="">
+      <children xsi:type="editmodel:StateEndEditModel" location="109,24" attachSource="true"/>
+      <children xsi:type="editmodel:StateEndEditModel" location="35,-2"/>
+      <children xsi:type="editmodel:WireLabelEditModel" size="1,15" fontInfo="Arial-8-0" anchorKind="MiddlePart"/>
+    </sourceConnections>
+  </children>
+  <children xsi:type="editmodel:ActivityEditModel" location="117,282" size="93,25" targetConnections="//@children.4/@sourceConnections.0" itemName="Quantisieren">
+    <sourceConnections xsi:type="editmodel:TransitionEditModel" connectionRouterKind="Manual" source="//@children.5" target="//@children.6" targetEnd="//@children.5/@sourceConnections.0/@children.1" label="//@children.5/@sourceConnections.0/@children.2" sourceEnd="//@children.5/@sourceConnections.0/@children.0" eventName="" eventArgument="" condition="" action="">
+      <children xsi:type="editmodel:StateEndEditModel" location="93,4" attachSource="true"/>
+      <children xsi:type="editmodel:StateEndEditModel" location="-2,20"/>
+      <children xsi:type="editmodel:WireLabelEditModel" size="1,15" fontInfo="Arial-8-0" anchorKind="MiddlePart"/>
+    </sourceConnections>
+  </children>
+  <children xsi:type="editmodel:ActivityEditModel" location="364,281" size="122,25" targetConnections="//@children.5/@sourceConnections.0" itemName="Rueckquantisieren">
+    <sourceConnections xsi:type="editmodel:TransitionEditModel" connectionRouterKind="Manual" source="//@children.6" target="//@children.7" targetEnd="//@children.6/@sourceConnections.0/@children.1" label="//@children.6/@sourceConnections.0/@children.2" sourceEnd="//@children.6/@sourceConnections.0/@children.0" eventName="" eventArgument="" condition="" action="">
+      <children xsi:type="editmodel:StateEndEditModel" location="46,-2" attachSource="true"/>
+      <children xsi:type="editmodel:StateEndEditModel" location="119,24"/>
+      <children xsi:type="editmodel:WireLabelEditModel" size="1,15" fontInfo="Arial-8-0" anchorKind="MiddlePart"/>
+    </sourceConnections>
+  </children>
+  <children xsi:type="editmodel:ActivityEditModel" location="314,212" size="212,25" targetConnections="//@children.6/@sourceConnections.0" itemName="Rueckwaerts Wavelet-Transfomation">
+    <sourceConnections xsi:type="editmodel:TransitionEditModel" connectionRouterKind="Manual" source="//@children.7" target="//@children.8" targetEnd="//@children.7/@sourceConnections.0/@children.1" label="//@children.7/@sourceConnections.0/@children.2" sourceEnd="//@children.7/@sourceConnections.0/@children.0" eventName="" eventArgument="" condition="" action="">
+      <children xsi:type="editmodel:StateEndEditModel" location="102,-2" attachSource="true"/>
+      <children xsi:type="editmodel:StateEndEditModel" location="97,24"/>
+      <children xsi:type="editmodel:WireLabelEditModel" size="1,15" fontInfo="Arial-8-0" anchorKind="MiddlePart"/>
+    </sourceConnections>
+  </children>
+  <children xsi:type="editmodel:ActivityEditModel" location="323,165" size="189,25" targetConnections="//@children.7/@sourceConnections.0" itemName="Bild aus Kachel zusammenfügen">
+    <sourceConnections xsi:type="editmodel:TransitionEditModel" connectionRouterKind="Manual" source="//@children.8" target="//@children.9" targetEnd="//@children.8/@sourceConnections.0/@children.1" label="//@children.8/@sourceConnections.0/@children.2" sourceEnd="//@children.8/@sourceConnections.0/@children.0" eventName="" eventArgument="" condition="" action="">
+      <children xsi:type="editmodel:StateEndEditModel" location="123,-2" attachSource="true"/>
+      <children xsi:type="editmodel:StateEndEditModel" location="81,24"/>
+      <children xsi:type="editmodel:WireLabelEditModel" size="1,15" fontInfo="Arial-8-0" anchorKind="MiddlePart"/>
+    </sourceConnections>
+  </children>
+  <children xsi:type="editmodel:ActivityEditModel" location="308,106" size="223,25" targetConnections="//@children.8/@sourceConnections.0" itemName="Farbtransformation von YCbCr zu RGB">
+    <sourceConnections xsi:type="editmodel:TransitionEditModel" connectionRouterKind="Manual" source="//@children.9" target="//@children.10" targetEnd="//@children.9/@sourceConnections.0/@children.1" label="//@children.9/@sourceConnections.0/@children.2" sourceEnd="//@children.9/@sourceConnections.0/@children.0" eventName="" eventArgument="" condition="" action="">
+      <children xsi:type="editmodel:StateEndEditModel" location="74,-2" attachSource="true"/>
+      <children xsi:type="editmodel:StateEndEditModel" location="15,19"/>
+      <children xsi:type="editmodel:WireLabelEditModel" size="1,15" fontInfo="Arial-8-0" anchorKind="MiddlePart"/>
+    </sourceConnections>
+  </children>
+  <children xsi:type="editmodel:EndEditModel" location="402,31" size="21,21" targetConnections="//@children.9/@sourceConnections.0"/>
+</editmodel:ActivityDiagramEditModel>
